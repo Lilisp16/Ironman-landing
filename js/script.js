@@ -64,3 +64,4 @@ function animarScroll() {
 
     window.addEventListener('scroll', mostrar);
     mostrar();
+}
