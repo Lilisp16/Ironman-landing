@@ -55,3 +55,6 @@ footer {
 footer li:hover {
     opacity: 0.7;
 }
+footer h5 {
+    font-weight: 600;
+}
