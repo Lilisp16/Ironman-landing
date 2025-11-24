@@ -1,9 +1,9 @@
-// Aquí definimos los productos de ejemplo
+// Productos de ejemplo
 const productos = [
-    { id: 1, nombre: "Medias 1", precio: 80000, img: "https://terret.co/cdn/shop/files/MediasTobillerasAqua_940x.png?v=1760122790" },
-    { id: 2, nombre: "Medias 2", precio: 120000, img: "https://terret.co/cdn/shop/files/MediasTobillerasAqua_940x.png?v=1760122790" },
-    { id: 3, nombre: "Medias 3", precio: 150000, img: "https://terret.co/cdn/shop/files/MediasTobillerasAqua_940x.png?v=1760122790" },
-    { id: 4, nombre: "Medias 4", precio: 200000, img: "https://terret.co/cdn/shop/files/MediasTobillerasAqua_940x.png?v=1760122790" }
+    { id: 1, nombre: "Tenis de running para Hombre Kiprun Jogflow 190 -", precio: 80000, img: "https://contents.mediadecathlon.com/p2636505/1cr1/k$1147a55c63c1d0312ff3606c370f968c/tenis-de-running-jogflow-1901-para-hombre-blancoslashazul.jpg?format=auto&f=768x0" },
+    { id: 2, nombre: "Canguro para hidratación", precio: 120000, img: "https://contents.mediadecathlon.com/p2002747/1cr1/k$8687b849acafdf8cab3dee35919603ab/cinturon-hidratacion-running-correr.jpg?format=auto&f=768x0" },
+    { id: 3, nombre: "Reloj con cronómetro", precio: 150000, img: "https://contents.mediadecathlon.com/p2204004/1cr1/k$ddb934eedcc57be28f038e0b8a1fc990/reloj-cronometro-de-running-w500m-negro.jpg?format=auto&f=768x0" },
+    { id: 4, nombre: "Gel energético", precio: 9000, img: "https://contents.mediadecathlon.com/p2392710/1cr1/k$2b91186449392dc9e619f9e6b70b9fdc/gel-energetico-fresa-banano.jpg?format=auto&f=768x0" }
 ];
 
 // Aquí renderizamos los productos dinámicamente al cargar la página
