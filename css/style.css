@@ -1,0 +1,34 @@
+
+
+
+/* ESTILOS OFFCANVAS */
+.logo_negro {
+  filter: invert(1) sepia(1) saturate(5) hue-rotate(90deg);
+  width: 100px;
+}
+
+
+#contador{
+    background-color: white;
+    color: black;
+    
+}
+
+.sinfondo-btn {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+#offcanvasRight .btn-continuar {
+    color: rgb(49, 47, 47);       /* color del texto */
+    border-color: #e0ff34; /* borde */
+}
+
+.btn-continuar:hover {
+    background-color: #e0ff34; /* fondo neón al pasar mouse */
+    color: black;             
+}
+
+
+
